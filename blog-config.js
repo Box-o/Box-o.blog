@@ -1,8 +1,8 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "테스트 타이틀",
+  description: "테스트 설명",
+  author: "테스트 작성자",
+  siteUrl: "https://box-o.netlify.app/",
   links: {
     github: "https://github.com/devHudi",
     linkedIn: "https://linkedin.com",
@@ -17,7 +17,7 @@ module.exports = {
     link: "https://hudi.blog",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "Box-o/Box-o.blog",
     type: "pathname",
   },
 }
